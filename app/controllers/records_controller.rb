@@ -17,6 +17,13 @@ class RecordsController < ApplicationController
     redirect_to('/records')
   end
 
+  def destroy
+    @record = Record.find(params[:id])
+    @record.destroy
+    redirect_to('/records')
+
+  end
+
   private
 
   def record_params

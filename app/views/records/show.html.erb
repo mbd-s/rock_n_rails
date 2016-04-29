@@ -5,4 +5,5 @@
 <h2>by <%= @record.artist %></h2>
 <p>Year: <%= @record.year %></p>
 <p>Song Count: <%= @record.song_count %></p>
+<%= link_to "Delete Album", @record, method: :delete %> 
 <%= link_to "Back", records_path %>
