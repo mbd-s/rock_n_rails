@@ -72,5 +72,19 @@ title: "East Indian Chants and Devotional Songs",
     year: 1980,
     cover_art: "https://eyesofartists.files.wordpress.com/2010/03/remain_in_light.jpg",
     song_count: 8
-  }
+  },
+  {
+  title: "So Delicious",
+  artist: "The Reverend Peyton's Big Damn Band",
+  year: 2015,
+  cover_art: "http://ecx.images-amazon.com/images/I/81w7UKhACmL._SL1174_.jpg",
+  song_count: 10
+},
+{
+  title: "Flash Gordon Soundtrack",
+  artist: "Queen",
+  year: 1980,
+  cover_art: "http://ecx.images-amazon.com/images/I/71ps-ZQWf9L._SL1500_.jpg",
+  song_count: 18
+}
 ])
